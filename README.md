@@ -10,7 +10,7 @@
 技术栈：
 1.Spring boot
 2.Redis缓存
-3.mqtt
+3.mqtt消息中间件
 4.MongoDB
 5.SpringBatch(乱入)
 目录结构：
